@@ -31,3 +31,5 @@ C:\Dev_WebAPI\SuperHeroAPI\obj\Debug\net7.0\refint\SuperHeroAPI.dll
 C:\Dev_WebAPI\SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.pdb
 C:\Dev_WebAPI\SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.genruntimeconfig.cache
 C:\Dev_WebAPI\SuperHeroAPI\obj\Debug\net7.0\ref\SuperHeroAPI.dll
+C:\Dev_WebAPI\SuperHeroAPI\bin\Debug\net7.0\devDept.Eyeshot.v2023.dll
+C:\Dev_WebAPI\SuperHeroAPI\bin\Debug\net7.0\devDept.Eyeshot.v2023.xml

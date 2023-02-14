@@ -9,6 +9,10 @@
 //SINCE WE'RE GREATER THAN C#10, WE CAN USE THE GLOBAL NAMESPACE
 global using SuperHeroAPI.Models;
 global using SuperHeroAPI.Services.SuperHeroService;
+global using devDept.Eyeshot;
+
+//PROBABLY PUT THIS STRING SOMEWHERE ELSE
+//devDept.Eyeshot.Environment.Unlock("US21-12N3P-G7PM5-7102-RY7R");
 
 var builder = WebApplication.CreateBuilder(args);
 
